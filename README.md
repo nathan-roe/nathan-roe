@@ -115,4 +115,4 @@ I’m a Software Developer with over 5 years of experience turning complex busin
 Get in touch with me on LinkedIn or via email, and I'll be sure to get back to you. If you're in my area, let's get coffee!
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nathan-zachary-roe/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](nathanroe.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nathanroe.dev@gmail.com)
