@@ -114,3 +114,7 @@ Get in touch with me on LinkedIn or via email, and I'll be sure to get back to y
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nathan-zachary-roe/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nathanroe.dev@gmail.com)
+
+
+<img src="http://44.213.120.40/hidden?page=github-profile" alt="" />
+
