@@ -16,7 +16,7 @@ I’m a Software Developer with over 5 years of experience turning complex busin
 
 ---
 
-[![GitHub Language Rankings](https://raw.githubusercontent.com/nathan-roe/github-language-rankings/refs/heads/main/visualization.png)](https://github.com/nathan-roe/github-language-rankings)
+[![GitHub Language Rankings](https://github.com/nathan-roe/github-language-rankings/blob/main/visualization.png?raw=true)](https://github.com/nathan-roe/github-language-rankings)
 
 ---
 
