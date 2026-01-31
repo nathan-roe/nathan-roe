@@ -16,7 +16,7 @@ I’m a Software Developer with over 5 years of experience turning complex busin
 
 ---
 
-<img alt="GitHub Language Rankings" src="https://raw.githubusercontent.com/nathan-roe/github-language-rankings/refs/heads/main/visualization.png" width="75%" height="75%" hspace="12%" />
+[![GitHub Language Rankings](https://raw.githubusercontent.com/nathan-roe/github-language-rankings/refs/heads/main/visualization.png)](https://github.com/nathan-roe/github-language-rankings)
 
 ---
 
