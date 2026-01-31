@@ -8,11 +8,11 @@ I’m a Software Developer with over 5 years of experience turning complex busin
 
 ### Latest Projects
 
-[![RTL Signal & Device Monitor](https://svg.bookmark.style/api?url=https://github.com/nathan-roe/rtl-signald?tab=readme-ov-file&style=horizontal)](https://github.com/nathan-roe/rtl-signald?tab=readme-ov-file)
+[![RTL Signal & Device Monitor](https://github.com/nathan-roe/github-project-summary/blob/main/src/resources/rtl-signald.png?raw=true)](https://github.com/nathan-roe/rtl-signald?tab=readme-ov-file)
 
-[![Github Analytics](https://svg.bookmark.style/api?url=https://github.com/nathan-roe/github-analytics?tab=readme-ov-file&style=horizontal)](https://github.com/nathan-roe/github-analytics?tab=readme-ov-file)
+[![Github Analytics](https://github.com/nathan-roe/github-project-summary/blob/main/src/resources/github-analytics.png?raw=true)](https://github.com/nathan-roe/github-analytics?tab=readme-ov-file)
 
-[![Local LLM Browser Extension](https://svg.bookmark.style/api?url=https://github.com/nathan-roe/local-llm-chrome-extension?tab=readme-ov-file&style=horizontal)](https://github.com/nathan-roe/local-llm-chrome-extension?tab=readme-ov-file)
+[![Local LLM Browser Extension](https://github.com/nathan-roe/github-project-summary/blob/main/src/resources/local-llm-chrome-extension.png?raw=true)](https://github.com/nathan-roe/local-llm-chrome-extension?tab=readme-ov-file)
 
 ---
 
